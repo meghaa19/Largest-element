@@ -11,7 +11,7 @@ public:
            
            if(arr[num]>large)
            {
-               large=arr[i];
+               large=arr[num];
                
                
            }
