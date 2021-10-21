@@ -9,7 +9,7 @@ public:
        for (int num=0;num<n;num++)
        {
            
-           if(arr[i]>large)
+           if(arr[num]>large)
            {
                large=arr[i];
                
